@@ -1,3 +1,3 @@
 # root-ssh
 enable root ssh
-` git clone https://github.com/JuManjey/update-automatic.git && cd update-automatic && chmod +x install-update.sh && bash install-update.sh`
+`git clone https://github.com/JuManjey/root-ssh.git && cd root-ssh && chmod +x setup-root-ssh.sh && bash setup-root-ssh.sh`
